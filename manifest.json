@@ -1,0 +1,21 @@
+{
+    "name": "App name",
+    "description": "App description",
+    "short_name": "App short name",
+    "icons": [
+       {
+          "src": "iconurl",
+          "sizes": "192x192",
+          "type": "image/png"
+       },
+       {
+          "src": "iconurl",
+          "sizes": "512x512",
+          "type": "image/png"
+       }
+    ],
+    "start_url": "webadres",
+    "display": "standalone",
+    "theme_color": "#EAECEE",
+    "background_color": "#17202A"
+ }
